@@ -6,7 +6,14 @@
 	}
 	
 	h1{
-		
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Define a família da fonte */
+  font-size: 70px; /* Define o tamanho da fonte */
+  color: #333; /* Define a cor do texto */
+  text-align: center; /* Centraliza o texto */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra */
+  margin-bottom: 20px; /* Adiciona margem inferior */
+  text-decoration: underline; /* Adiciona um sublinhado */
+
 
 	}
 
